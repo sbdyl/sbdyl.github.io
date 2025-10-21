@@ -1,4 +1,4 @@
-[![sebs Ghost](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/sbdyl)
+[![sebs Ghost](https://img.shields.io/badge/sbdyl-github-blue?logo=github)](https://github.com/sbdyl)
 
 I'm currently pursuing a Ph.D's degree at the Institude of Mechanical Engineering, Shanghai Jiao Tong University. Now I am a second-year graduate student in CIUS lab. My main research direction is UAV active visual perception and perception-enhanced UAV planning.
 
