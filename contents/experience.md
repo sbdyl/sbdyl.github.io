@@ -1,7 +1,7 @@
 ### **Engineer Intern**  
 **July 2023 – September 2023 | JAKA**  
 
-In the JIKA Visual Perception Department, we completed a visual servo massage project. Using a JAKA Lens monocular camera, we captured photos of the massage recipient's back. Using deep learning algorithms and probabilistic models, we calculated the locations of the massage meridians on the recipient's back. Finally, we used force-position hybrid control of the JAKA robotic arm to massage the meridians. This project also included the development of a front-end QT interface, which has been applied to a real device and completed massage testing.
+In the JAKA Visual Perception Department, we completed a visual servo massage project. Using a JAKA Lens monocular camera, we captured photos of the massage recipient's back. Using deep learning algorithms and probabilistic models, we calculated the locations of the massage meridians on the recipient's back. Finally, we used force-position hybrid control of the JAKA robotic arm to massage the meridians. This project also included the development of a front-end QT interface, which has been applied to a real device and completed massage testing.
 
 #### Key Contributions:  
 - Developed and optimized reep learning algorithms and probabilistic models to calculate the locations of the massage meridians on the recipient's back. 

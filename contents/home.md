@@ -6,14 +6,14 @@ I'm currently pursuing a Ph.D's degree at the Institude of Mechanical Engineerin
 <code>hx2020@sjtu.edu.cn</code>  
 
 #### Education  
-**Sha University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Sha University**, Master of Mechanical Engineering (2024 till now)  
+• GPA: 3.81/4.0   
 
 **Shanghai Jiao Tong University**, Bachelor of Mechanical Engineering (2020 – 2024)  
-• GPA: 3.81/4.0 (top 6%)
+• GPA: 3.89/4.0 (top 6%)
 
 **Shanghai Jiao Tong University**, Honours Bachelor of Zhiyuan (2020 – 2024)  
-• GPA: 3.81/4.0 (top 6%)  
+• GPA: 3.89/4.0 (top 6%)  
 
 #### Research Interests  
 - Active vision system.
