@@ -1,21 +1,21 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Engineer Intern**  
+**July 2023 – September 2023 | JAKA**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+In the JIKA Visual Perception Department, we completed a visual servo massage project. Using a JAKA Lens monocular camera, we captured photos of the massage recipient's back. Using deep learning algorithms and probabilistic models, we calculated the locations of the massage meridians on the recipient's back. Finally, we used force-position hybrid control of the JAKA robotic arm to massage the meridians. This project also included the development of a front-end QT interface, which has been applied to a real device and completed massage testing.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Developed and optimized reep learning algorithms and probabilistic models to calculate the locations of the massage meridians on the recipient's back. 
+- Designed and implemented force-position hybrid control of the JAKA robotic arm to process the massage.  
+- Conducted real-world tests and analysis.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **工程师实习生**  
+**2023年7月 – 2023年9月 | 节卡机器人**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+在节卡视觉感知部门曾完成视觉伺服按摩项⽬，使⽤JAKA Lens单⽬相机拍摄待按摩⼈员背部照⽚，利⽤深度学习算法与概率模型计算获取按摩⼈员的背部经络位置，最后利⽤JAKA机械臂的⼒位混合控制按摩经络处。项⽬也包含前端QT界⾯开发，已应⽤于实机，并完成了按摩测试。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 开发并优化了循环学习算法和概率模型，用于计算按摩者背部经络的位置。  
+- 设计并实现了JAKA机械臂的力位混合控制，用于按摩。
+- 进行了实际测试和分析。

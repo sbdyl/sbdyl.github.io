@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![sebs Ghost](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/sbdyl)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Ph.D's degree at the Institude of Mechanical Engineering, Shanghai Jiao Tong University. Now I am a second-year graduate student in CIUS lab. My main research direction is UAV active visual perception and perception-enhanced UAV planning.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>hx2020@sjtu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Sha University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Shanghai Jiao Tong University**, Bachelor of Mechanical Engineering (2020 – 2024)  
+• GPA: 3.81/4.0 (top 6%)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Shanghai Jiao Tong University**, Honours Bachelor of Zhiyuan (2020 – 2024)  
+• GPA: 3.81/4.0 (top 6%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+- Active vision system.
+- UAV perception and planning.
+- Fast single object tracking.
+- UAV reinforcement learning.
