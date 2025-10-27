@@ -7,4 +7,4 @@
 
 
 - Zhang C, **Huang X (co-first author)**, and Dong W. SPOT: Sensing-augmented Trajectory Planning via Obstacle Threat Modeling[EB/OL]. arXiv preprint arXiv:paper 2510.16308,2025. [paper](https://arxiv.org/abs/2510.16308)
-[video](https://www.youtube.com/watch?v=t4LthVbATlY)
+[video](https://youtu.be/H0CibrfNH9w)
